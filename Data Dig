@@ -1,4 +1,4 @@
-# In this SQL example I use functions such as average, min, max, HAVING, CASE, AND/OR 
+# In this SQL project I use functions such as average, min, max, HAVING, CASE, AND/OR 
 
 /* Put your data in here and query it! */
 CREATE TABLE pokemon(

@@ -1,4 +1,3 @@
 # Paulo Mendes' SQL Portfolio
 
-## Hi there! Welcome to my SQL portfolio! This code repository contains examples of SQL I've written. 
-Feel free to take a look and reach out if you have any questions: paulo8610@hotmail.com
+## Hi there! Welcome to my SQL portfolio! This code repository contains examples of SQL I've written. Feel free to take a look and reach out if you have any questions: paulo8610@hotmail.com
